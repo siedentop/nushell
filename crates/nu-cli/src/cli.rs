@@ -306,6 +306,7 @@ pub fn create_default_context(
             whole_stream_command(Rename),
             whole_stream_command(Uniq),
             per_item_command(Each),
+            whole_stream_command(Do),
             // Table manipulation
             whole_stream_command(Shuffle),
             whole_stream_command(Wrap),

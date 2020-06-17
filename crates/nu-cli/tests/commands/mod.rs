@@ -5,6 +5,7 @@ mod cd;
 mod compact;
 mod cp;
 mod default;
+mod r#do;
 mod each;
 mod edit;
 mod enter;
